@@ -31,23 +31,26 @@ bash
 **git clone https://github.com/USERNAME/pokemon-finder.git
 
 
-### 📂 Project Structure
+## 📂 Project Structure
+
 pokemon-finder
 ├── index.html
 ├── pokemon.js
 └── README.md
 
 
-###🧪 How to Use
-Enter a Pokémon name (example: pikachu)
-Click Fetch Pokémon
-Pokémon image will appear with animation
 
-###❗ Notes
--Pokémon name must be entered correctly
--Internet connection is required
--Data fetched from https://pokeapi.co/
+## 🧪 How to Use
+1. Enter a Pokémon name (example: `pikachu`)
+2. Click **Fetch Pokémon**
+3. Pokémon image will appear with animation
 
-###👨‍💻 Author
-**Muthukannan**
+## ❗ Notes
+- Pokémon name must be entered correctly
+- Internet connection is required
+- Data fetched from https://pokeapi.co/
+
+## 👨‍💻 Author
+**Muthu Kannan**
+
 
