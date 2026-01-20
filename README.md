@@ -32,11 +32,12 @@ bash
 
 
 ## 📂 Project Structure
-
+```
 pokemon-finder
 ├── index.html
 ├── pokemon.js
 └── README.md
+```
 
 
 
