@@ -31,7 +31,7 @@ bash
 **git clone https://github.com/USERNAME/pokemon-finder.git
 
 
-## 📂 Project Structure
+### 📂 Project Structure
 pokemon-finder
 ├── index.html
 ├── pokemon.js
@@ -44,9 +44,9 @@ Click Fetch Pokémon
 Pokémon image will appear with animation
 
 ###❗ Notes
-Pokémon name must be entered correctly
-Internet connection is required
-Data fetched from https://pokeapi.co/
+-Pokémon name must be entered correctly
+-Internet connection is required
+-Data fetched from https://pokeapi.co/
 
 ###👨‍💻 Author
 **Muthukannan**
