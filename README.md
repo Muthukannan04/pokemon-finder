@@ -40,6 +40,7 @@ pokemon-finder
 
 
 
+
 ## 🧪 How to Use
 1. Enter a Pokémon name (example: `pikachu`)
 2. Click **Fetch Pokémon**
